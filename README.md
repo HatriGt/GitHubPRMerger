@@ -26,7 +26,7 @@ Perfect for teams following gitflow workflows that require separate PRs for feat
 ## Installation
 
 ### From Chrome Web Store
-*(Coming soon)*
+*(Coming soon in Store)*
 
 ### Manual Installation
 1. Clone this repository or download as a ZIP file
