@@ -1,4 +1,4 @@
-# GitHub PR Branch Merger
+# GitHub PR Branch Cloner
 
 A Chrome extension that streamlines the process of cloning pull requests to different branches in GitHub repositories.
 
