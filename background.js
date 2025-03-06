@@ -1,5 +1,3 @@
-// background.js
-
 // Listen for tab updates to detect GitHub PR pages
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     // Only run when the page is fully loaded
